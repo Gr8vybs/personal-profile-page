@@ -6,6 +6,21 @@
     <title>My Profile</title>
 </head>
 <body>
+    <!-- 
+    objective:
+    Mini Project: Personal Profile Page (HTML Only)
+    Objective: The goal of this project is to create a personal profile webpage using only HTML. 
+    This exercise tests the ability to structure a webpage using semantic HTML elements.
+    -->
+    <!-- 
+    Use Case:
+    This project, "Personal Profile Page," is designed as an HTML-only mini project to practice the use of semantic HTML elements.
+    The use case includes:
+    1. Structuring a webpage with proper semantic tags such as <header>, <nav>, <section>, and <footer>.
+    2. Creating a simple profile webpage that introduces a user and lists their hobbies and contact information.
+    3. Demonstrating foundational HTML skills for beginner-level web development, which can be built upon with CSS and JavaScript in future projects.
+    4. Preparing a practical example for learning, practice, or inclusion in a coding portfolio.
+    -->
     <!-- Header Section -->
     <header>
         <h1>My Profile</h1>
