@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>My Profile</h1>
+        <nav>
+            <ul>
+                <li>About Me</li>
+                <li>Hobbies</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Bio Section -->
+    <section>
+        <h2>About Me</h2>
+        <p>Hello!. My name is Simon Afolayan. I'm currently learning software development and this is my first project.</p>
+        <img src="https://via.placeholder.com/150" alt="Placeholder image">
+    </section>
+
+    <!-- Hobbies Section -->
+    <section>
+        <h2>My Hobbies</h2>
+        <ul>
+            <li>Coding</li>
+            <li>football</li>
+            <li>Crypto trading</li>
+        </ul>
+    </section>
+
+    <!-- Footer Section -->
+    <section>
+      <footer>
+        <p>Contact me at: vibegreat28@gmail.com</p>
+      </footer>
+    </section>
+</body>
+</html
